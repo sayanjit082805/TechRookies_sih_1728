@@ -5,3 +5,4 @@ Paperless scholarship distribution website
 * Sayanjit Ukil 
 * Sukanya Dasgupta
 * Aryan Ghosh
+* Susmita Khan
