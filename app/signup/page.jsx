@@ -17,7 +17,7 @@ import { UserPlus } from "lucide-react";
 export default function Page() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
-      <Card className="mx-auto max-w-sm -mt-32">
+      <Card className="mx-auto max-w-sm -mt-10">
         <CardHeader>
           <CardTitle className="text-xl">Sign Up</CardTitle>
           <hr className="border-neutral-600 rounded-full" />
